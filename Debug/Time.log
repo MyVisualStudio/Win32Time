@@ -1,0 +1,37 @@
+﻿生成启动时间为 2017/5/7 20:17:36。
+     1>项目“E:\VS_Projects\Time\Time.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>e:\vs_projects\time\源.cpp(48): warning C4172: 返回局部变量或临时变量的地址
+     1>e:\vs_projects\time\源.cpp(91): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualstudio\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>e:\vs_projects\time\源.cpp(94): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualstudio\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>e:\vs_projects\time\源.cpp(114): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualstudio\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>e:\vs_projects\time\源.cpp(115): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualstudio\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>e:\vs_projects\time\源.cpp(116): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualstudio\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>e:\vs_projects\time\源.cpp(117): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualstudio\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>e:\vs_projects\time\源.cpp(121): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualstudio\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>e:\vs_projects\time\源.cpp(125): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualstudio\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>e:\vs_projects\time\源.cpp(137): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualstudio\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>e:\vs_projects\time\源.cpp(141): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualstudio\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>e:\vs_projects\time\源.cpp(283): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visualstudio\vc\include\stdio.h(356) : 参见“sprintf”的声明
+       Link:
+         D:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VS_Projects\Time\Debug\Time.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\VS_Projects\Time\Debug\Time.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VS_Projects\Time\Debug\Time.lib" /MACHINE:X86 Debug\tinyxml2.obj
+         "Debug\源.obj"
+         Time.vcxproj -> E:\VS_Projects\Time\Debug\Time.exe
+     1>已完成生成项目“E:\VS_Projects\Time\Time.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.11
